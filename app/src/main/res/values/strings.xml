@@ -1,7 +1,25 @@
 <resources>
-  <string name="app_name">DiceGames</string>
-  <string name="zero">0</string>
-  <string name="coins">Coins</string>
-  <string name="two_or_more">Two Or More</string>
-  <string name="congrats">Congratulations!</string>
+    <string name="app_name">DiceGames</string>
+    <string name="zero">0</string>
+    <string name="coins">Coins</string>
+    <string name="two_or_more">Two Or More</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="m2">2 Alike</string>
+    <string name="m3">3 Alike</string>
+    <string name="m4">4 Alike</string>
+    <string name="wager">Wager</string>
+    <string name="go">go</string>
+    <string name="back">Back</string>
+    <string name="info">Info</string>
+    <string name="rules">Rules</string>
+    <string name="rule1">You have to earn coins by rolling the die, get 5 coins on each roll of a six.</string>
+    <string name="rule2">You can go to the "Two or more" page by Clicking on\n and gamble the earned coins by using further rules.</string>
+    <string name="rule3">Make sure to wage amount so that balance doesn\'t reach negative.</string>
+    <string name="rule4">There are 3 modes: 2 alike, 3 alike and 4 alike.\nIn 2 alike mode, rewards are given if 2 dices have the same\nvalue.Similar rule applies to 3 alike and 4 alike.</string>
+    <string name="rule5">The amount won or deducted is the waged value\nmultiplied by the number of dices alike in the given mode.</string>
+    <string name="rule1l">You can earn coins in the starting page of the app by tapping on the\ndie button and earning coins whenever you get a six on the die.</string>
+    <string name="rule2l">You can go to the "Two or more" page by tapping on the button of the\nsame name and earn more coins by waging coins.</string>
+    <string name="rule3l">The amount to be waged must be within balance in such a manner that if you\nlose, the amount to be deducted must be lesser than the current balance.</string>
+    <string name="rule4l">There are 3 modes: 2 alike, 3 alike and 4 alike. In 2 alike mode, rewards\nare given if 2 dices have the same value.Similar rule applies to 3 alike and 4 alike.</string>
+    <string name="rule5l">The amount won or deducted is the waged value multiplied by the number\nof dices alike in the given mode.</string>
 </resources>
