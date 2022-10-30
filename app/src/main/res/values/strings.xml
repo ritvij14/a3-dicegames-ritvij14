@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DiceGames</string>
+  <string name="zero">0</string>
+  <string name="coins">Coins</string>
+  <string name="two_or_more">Two Or More</string>
+  <string name="congrats">Congratulations!</string>
+</resources>

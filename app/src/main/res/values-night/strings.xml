@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="zero">0</string>
+  <string name="coins">Coins</string>
+  <string name="two_or_more">Two Or More</string>
+  <string name="congrats">Congratulations!</string>
+</resources>
